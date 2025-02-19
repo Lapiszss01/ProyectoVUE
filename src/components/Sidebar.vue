@@ -7,6 +7,8 @@
             <li><router-link to="/contador">Contador</router-link></li>
             <li><router-link to="/listadetareas">Lista de tareas</router-link></li>
             <li><router-link to="/registrar">Registro</router-link></li>
+            <li><router-link to="/calcular">Calculo</router-link></li>
+
         </ul>
     </div>
 </template>
